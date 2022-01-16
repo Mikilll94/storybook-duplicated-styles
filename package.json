@@ -12,9 +12,10 @@
     "@storybook/addon-essentials": "^6.5.0-alpha.17",
     "@storybook/addon-links": "^6.5.0-alpha.17",
     "@storybook/html": "^6.5.0-alpha.17",
-    "babel-loader": "^8.2.3"
+    "babel-loader": "^8.2.3",
+    "sass": "^1.48.0",
+    "sass-loader": "^10.2.1"
   },
-  "dependencies": {},
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
